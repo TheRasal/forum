@@ -1,3 +1,6 @@
+.xml
+.jsp
+
 # Compiled class file
 *.class
 *.xml
@@ -5,12 +8,18 @@
 
 # Log file
 *.log
+*.xml
+*.jsp
 
 # BlueJ files
 *.ctxt
+*.xml
+*.jsp
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+*.xml
+*.jsp
 
 # Package Files #
 *.jar
@@ -19,7 +28,11 @@
 *.zip
 *.tar.gz
 *.rar
+*.xml
+*.jsp
 
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+*.xml
+*.jsp
